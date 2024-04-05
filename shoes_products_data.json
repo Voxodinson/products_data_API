@@ -1388,63 +1388,6 @@
       "size_15": "44.5"
     },
     "image": {
-      "image_1": "",
-      "slide_image": {
-        "slide_image_1": "",
-        "slide_image_2": "",
-        "slide_image_3": "",
-        "slide_image_4": "",
-        "slide_image_5": "",
-        "slide_image_6": "",
-        "slide_image_7": ""
-      }
-    }
-  },
-
-  {
-    "type_product": "handball_spezial_shoes",
-    "id": "HANDBALL_SPEZIAL_SHOES_1",
-    "name": "HANDBALL SPEZIAL SHOES",
-    "price": 120,
-    "best_sale": "best_sale_product",
-    "details": {
-      "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
-      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
-      "product_detail": {
-        "p_detail_1": "Regular fit",
-        "p_detail_2": "Lace closure",
-        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
-        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
-        "p_detail_5": "Gum rubber midsole ",
-        "p_detail_6": "Imported",
-        "p_detail_7": " Product color: Cloud White / Core Black / gum",
-        "p_detail_8": " Product code: B75806"
-      }
-    },
-
-    "sizes": {
-      "size_1": "26.5",
-      "size_2": "27",
-      "size_3": "28",
-      "size_4": "29",
-      "size_5": "29.5",
-      "size_6": "30",
-      "size_7": "31",
-      "size_8": "32",
-      "size_9": "32.5",
-      "size_10": "33",
-      "size_11": "34",
-      "size_12": "37",
-      "size_13": "39",
-      "size_14": "39.5",
-      "size_16": "40",
-      "size_17": "41",
-      "size_18": "42",
-      "size_19": "43",
-      "size_20": "44",
-      "size_15": "44.5"
-    },
-    "image": {
       "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f8a8e692966748f4a493eb756649ff87_9366/Handball_Spezial_Shoes_Green_IG6192_01_standard.jpg",
       "slide_image": {
         "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/55b17777e67748f0bdcbdcdb9e45fe51_9366/Handball_Spezial_Shoes_Green_IG6192_02_standard.jpg",
@@ -1462,7 +1405,7 @@
     "id": "HANDBALL_SPEZIAL_SHOES_2",
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
-    "best_sale": "best_sale_product",
+    "best_sale": "",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1518,7 +1461,7 @@
     "id": "HANDBALL_SPEZIAL_SHOES_3",
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
-    "best_sale": "best_sale_product",
+    "best_sale": "",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1574,7 +1517,7 @@
     "id": "HANDBALL_SPEZIAL_SHOES_4",
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
-    "best_sale": "best_sale_product",
+    "best_sale": "",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
