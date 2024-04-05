@@ -1,0 +1,282 @@
+[
+  {
+    "type_product": "samba",
+    "id": "SAMBA OG SHOES WHITE",
+    "name": "SAMBA OG SHOES",
+    "price": 115.5,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bbecbdf584e40398446a8bf0117cf62_9366/Samba_OG_Shoes_White_B75806_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ec595635a2994adea094a8bf0117ef1a_9366/Samba_OG_Shoes_White_B75806_02_standard.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a8d5f9cb7444bd195f1a8bf01180e68_9366/Samba_OG_Shoes_White_B75806_05_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b067d21288bc43ec8298a8bf01180400_9366/Samba_OG_Shoes_White_B75806_04_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b19389122c51434eb5bea8bf0117da35_9366/Samba_OG_Shoes_White_B75806_07_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/671c62b81c3448e980aca8bf01181a93_9366/Samba_OG_Shoes_White_B75806_41_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f9ce5733049f4ca8a93aa8bf011858bd_9366/Samba_OG_Shoes_White_B75806_09_standard.jpg",
+        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6cea1ecd4fee4337ab5da8bf011823ca_9366/Samba_OG_Shoes_White_B75806_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "samba",
+    "id": "SAMBA OG SHOES BLACK",
+    "name": "SAMBA OG SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c70105150234ac4b948a8bf01187e0c_9366/Samba_OG_Shoes_Black_B75807_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/309a0c8f53dd45d3a3bea8bf0118aa6b_9366/Samba_OG_Shoes_Black_B75807_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a3ffa88f92a74c6d9979a8bf0118b9d0_9366/Samba_OG_Shoes_Black_B75807_03_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a766df52607e42858ddba8bf0118c6cb_9366/Samba_OG_Shoes_Black_B75807_04_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ce28dd2ab7684e8bb00ba8bf0118d2cf_9366/Samba_OG_Shoes_Black_B75807_05_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/afa5435f1b5241eaba01a8bf01189c56_9366/Samba_OG_Shoes_Black_B75807_06_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/541ded71f98a4a8a8496a8bf0118ea18_9366/Samba_OG_Shoes_Black_B75807_42_detail.jpg",
+        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/99f7a73049474248a9c2a8bf0118ddab_9366/Samba_OG_Shoes_Black_B75807_41_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "samba",
+    "id": "SAMBA OG SHOES",
+    "name": "SAMBA OG SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8ea5dbd147604771846f4538dc380bc9_9366/Samba_OG_Shoes_White_ID0492_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f2f963c5319e428eac3f4aa4ff5f3cce_9366/Samba_OG_Shoes_White_ID0492_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/56d2955559e24dcc823dbd0e821dce22_9366/Samba_OG_Shoes_White_ID0492_03_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9ff1575627a444de80a9d1666cf33275_9366/Samba_OG_Shoes_White_ID0492_04_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/456ff4d00f664c4c98c22e8bfc871de8_9366/Samba_OG_Shoes_White_ID0492_05_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b78ea9ed0e0344e9bfb087fd32b7bdc6_9366/Samba_OG_Shoes_White_ID0492_06_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f76ccaee7c046a29b430716916a10dd_9366/Samba_OG_Shoes_White_ID0492_41_detail.jpg",
+        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5e7b48d6edb947d2b9fe736c13acd15e_9366/Samba_OG_Shoes_White_ID0492_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "samba",
+    "id": "SAMBA OG SHOES BLACK",
+    "name": "SAMBA OG SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a34f007a106043afb2f3afab00e997ee_9366/Samba_OG_Shoes_White_IG1024_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa8968648a604bb3971dafab00e9b6ec_9366/Samba_OG_Shoes_White_IG1024_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0b1625fff556400da1e8afab00e9c10c_9366/Samba_OG_Shoes_White_IG1024_03_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c356338d0574fb88774afab00e9c870_9366/Samba_OG_Shoes_White_IG1024_04_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c381dd9fcd254e4d9eb4afab00e9a72e_9366/Samba_OG_Shoes_White_IG1024_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c3acb92f2c24b55bad4afab00e9e657_9366/Samba_OG_Shoes_White_IG1024_41_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17d2d6e1484d4a048281afab00e9f075_9366/Samba_OG_Shoes_White_IG1024_42_detail.jpg",
+        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23f5da5b3a8a4df5ba14afab00e9da6e_9366/Samba_OG_Shoes_White_IG1024_05_standard.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "samba",
+    "id": "SAMBA OG SHOES BLACK",
+    "name": "SAMBA OG SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/65be906afc06467f8ff483e9a3b38383_9366/Samba_OG_Shoes_White_IE3439_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/65be906afc06467f8ff483e9a3b38383_9366/Samba_OG_Shoes_White_IE3439_01_standard.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d2966ce66c0d4c5680a8dc51d52c2531_9366/Samba_OG_Shoes_White_IE3439_03_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2aaf4353ad174208b542d35cd58ca992_9366/Samba_OG_Shoes_White_IE3439_04_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/79cae440b0f1425388b2d3198fb18ace_9366/Samba_OG_Shoes_White_IE3439_05_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5591af1f00ae41b1aee51ebe601298ba_9366/Samba_OG_Shoes_White_IE3439_41_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eaf9dea272804090b39cc1cc7a2b459b_9366/Samba_OG_Shoes_White_IE3439_06_standard.jpg",
+        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa1153b485d249fb9bc5f8374cc743be_9366/Samba_OG_Shoes_White_IE3439_42_detail.jpg"
+      }
+    }
+  }
+]
