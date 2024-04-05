@@ -60,7 +60,7 @@
     "id": "samba-shoes_2",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
-    "best_sale": "",
+    "best_sale": "best_sale_product",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -116,7 +116,7 @@
     "id": "samba-shoes_3",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
-    "best_sale": "",
+    "best_sale": "best_sale_product",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -172,7 +172,7 @@
     "id": "samba-shoes_4 ",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
-    "best_sale": "",
+    "best_sale": "best_sale_product",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -733,7 +733,7 @@
     "id": "ADIZERO_ADIOS_PRO-_3 _M_99323",
     "name": "ADIZERO ADIOS PRO 3 M",
     "price": 250,
-    "best_sale": "best_sale_product",
+    "best_sale": "",
     "details": {
       "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
