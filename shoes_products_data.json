@@ -1,7 +1,7 @@
 [
   {
     "type_product": "samba",
-    "id": "SAMBA OG SHOES WHITE",
+    "id": "samba-shoes_1",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
@@ -47,17 +47,17 @@
       "slide_image": {
         "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ec595635a2994adea094a8bf0117ef1a_9366/Samba_OG_Shoes_White_B75806_02_standard.jpg",
         "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a8d5f9cb7444bd195f1a8bf01180e68_9366/Samba_OG_Shoes_White_B75806_05_standard.jpg",
-        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b067d21288bc43ec8298a8bf01180400_9366/Samba_OG_Shoes_White_B75806_04_standard.jpg",
-        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b19389122c51434eb5bea8bf0117da35_9366/Samba_OG_Shoes_White_B75806_07_standard.jpg",
-        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/671c62b81c3448e980aca8bf01181a93_9366/Samba_OG_Shoes_White_B75806_41_detail.jpg",
-        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f9ce5733049f4ca8a93aa8bf011858bd_9366/Samba_OG_Shoes_White_B75806_09_standard.jpg",
-        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6cea1ecd4fee4337ab5da8bf011823ca_9366/Samba_OG_Shoes_White_B75806_42_detail.jpg"
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b067d21288bc43ec8298a8bf01180400_9366/Samba_OG_Shoes_White_B75806_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b19389122c51434eb5bea8bf0117da35_9366/Samba_OG_Shoes_White_B75806_07_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/671c62b81c3448e980aca8bf01181a93_9366/Samba_OG_Shoes_White_B75806_41_detail.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f9ce5733049f4ca8a93aa8bf011858bd_9366/Samba_OG_Shoes_White_B75806_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6cea1ecd4fee4337ab5da8bf011823ca_9366/Samba_OG_Shoes_White_B75806_42_detail.jpg"
       }
     }
   },
   {
     "type_product": "samba",
-    "id": "SAMBA OG SHOES BLACK",
+    "id": "samba-shoes_2",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -103,17 +103,17 @@
       "slide_image": {
         "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/309a0c8f53dd45d3a3bea8bf0118aa6b_9366/Samba_OG_Shoes_Black_B75807_02_standard_hover.jpg",
         "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a3ffa88f92a74c6d9979a8bf0118b9d0_9366/Samba_OG_Shoes_Black_B75807_03_standard.jpg",
-        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a766df52607e42858ddba8bf0118c6cb_9366/Samba_OG_Shoes_Black_B75807_04_standard.jpg",
-        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ce28dd2ab7684e8bb00ba8bf0118d2cf_9366/Samba_OG_Shoes_Black_B75807_05_standard.jpg",
-        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/afa5435f1b5241eaba01a8bf01189c56_9366/Samba_OG_Shoes_Black_B75807_06_standard.jpg",
-        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/541ded71f98a4a8a8496a8bf0118ea18_9366/Samba_OG_Shoes_Black_B75807_42_detail.jpg",
-        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/99f7a73049474248a9c2a8bf0118ddab_9366/Samba_OG_Shoes_Black_B75807_41_detail.jpg"
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a766df52607e42858ddba8bf0118c6cb_9366/Samba_OG_Shoes_Black_B75807_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ce28dd2ab7684e8bb00ba8bf0118d2cf_9366/Samba_OG_Shoes_Black_B75807_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/afa5435f1b5241eaba01a8bf01189c56_9366/Samba_OG_Shoes_Black_B75807_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/541ded71f98a4a8a8496a8bf0118ea18_9366/Samba_OG_Shoes_Black_B75807_42_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/99f7a73049474248a9c2a8bf0118ddab_9366/Samba_OG_Shoes_Black_B75807_41_detail.jpg"
       }
     }
   },
   {
     "type_product": "samba",
-    "id": "SAMBA OG SHOES",
+    "id": "samba-shoes_3",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -159,17 +159,17 @@
       "slide_image": {
         "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f2f963c5319e428eac3f4aa4ff5f3cce_9366/Samba_OG_Shoes_White_ID0492_02_standard_hover.jpg",
         "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/56d2955559e24dcc823dbd0e821dce22_9366/Samba_OG_Shoes_White_ID0492_03_standard.jpg",
-        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9ff1575627a444de80a9d1666cf33275_9366/Samba_OG_Shoes_White_ID0492_04_standard.jpg",
-        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/456ff4d00f664c4c98c22e8bfc871de8_9366/Samba_OG_Shoes_White_ID0492_05_standard.jpg",
-        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b78ea9ed0e0344e9bfb087fd32b7bdc6_9366/Samba_OG_Shoes_White_ID0492_06_standard.jpg",
-        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f76ccaee7c046a29b430716916a10dd_9366/Samba_OG_Shoes_White_ID0492_41_detail.jpg",
-        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5e7b48d6edb947d2b9fe736c13acd15e_9366/Samba_OG_Shoes_White_ID0492_42_detail.jpg"
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9ff1575627a444de80a9d1666cf33275_9366/Samba_OG_Shoes_White_ID0492_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/456ff4d00f664c4c98c22e8bfc871de8_9366/Samba_OG_Shoes_White_ID0492_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b78ea9ed0e0344e9bfb087fd32b7bdc6_9366/Samba_OG_Shoes_White_ID0492_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f76ccaee7c046a29b430716916a10dd_9366/Samba_OG_Shoes_White_ID0492_41_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5e7b48d6edb947d2b9fe736c13acd15e_9366/Samba_OG_Shoes_White_ID0492_42_detail.jpg"
       }
     }
   },
   {
     "type_product": "samba",
-    "id": "SAMBA OG SHOES BLACK",
+    "id": "samba-shoes_4 ",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -215,17 +215,17 @@
       "slide_image": {
         "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa8968648a604bb3971dafab00e9b6ec_9366/Samba_OG_Shoes_White_IG1024_02_standard_hover.jpg",
         "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0b1625fff556400da1e8afab00e9c10c_9366/Samba_OG_Shoes_White_IG1024_03_standard.jpg",
-        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c356338d0574fb88774afab00e9c870_9366/Samba_OG_Shoes_White_IG1024_04_standard.jpg",
-        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c381dd9fcd254e4d9eb4afab00e9a72e_9366/Samba_OG_Shoes_White_IG1024_06_standard.jpg",
-        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c3acb92f2c24b55bad4afab00e9e657_9366/Samba_OG_Shoes_White_IG1024_41_detail.jpg",
-        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17d2d6e1484d4a048281afab00e9f075_9366/Samba_OG_Shoes_White_IG1024_42_detail.jpg",
-        "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23f5da5b3a8a4df5ba14afab00e9da6e_9366/Samba_OG_Shoes_White_IG1024_05_standard.jpg"
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c356338d0574fb88774afab00e9c870_9366/Samba_OG_Shoes_White_IG1024_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c381dd9fcd254e4d9eb4afab00e9a72e_9366/Samba_OG_Shoes_White_IG1024_06_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c3acb92f2c24b55bad4afab00e9e657_9366/Samba_OG_Shoes_White_IG1024_41_detail.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17d2d6e1484d4a048281afab00e9f075_9366/Samba_OG_Shoes_White_IG1024_42_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23f5da5b3a8a4df5ba14afab00e9da6e_9366/Samba_OG_Shoes_White_IG1024_05_standard.jpg"
       }
     }
   },
   {
     "type_product": "samba",
-    "id": "SAMBA OG SHOES BLACK",
+    "id": "samba-shoes_5",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -271,11 +271,1357 @@
       "slide_image": {
         "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/65be906afc06467f8ff483e9a3b38383_9366/Samba_OG_Shoes_White_IE3439_01_standard.jpg",
         "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d2966ce66c0d4c5680a8dc51d52c2531_9366/Samba_OG_Shoes_White_IE3439_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2aaf4353ad174208b542d35cd58ca992_9366/Samba_OG_Shoes_White_IE3439_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/79cae440b0f1425388b2d3198fb18ace_9366/Samba_OG_Shoes_White_IE3439_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5591af1f00ae41b1aee51ebe601298ba_9366/Samba_OG_Shoes_White_IE3439_41_detail.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eaf9dea272804090b39cc1cc7a2b459b_9366/Samba_OG_Shoes_White_IE3439_06_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa1153b485d249fb9bc5f8374cc743be_9366/Samba_OG_Shoes_White_IE3439_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "samba",
+    "id": "samba-shoes_6 ",
+    "name": "SAMBA OG SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a34f007a106043afb2f3afab00e997ee_9366/Samba_OG_Shoes_White_IG1024_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/65be906afc06467f8ff483e9a3b38383_9366/Samba_OG_Shoes_White_IE3439_01_standard.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d2966ce66c0d4c5680a8dc51d52c2531_9366/Samba_OG_Shoes_White_IE3439_03_standard.jpg",
         "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2aaf4353ad174208b542d35cd58ca992_9366/Samba_OG_Shoes_White_IE3439_04_standard.jpg",
         "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/79cae440b0f1425388b2d3198fb18ace_9366/Samba_OG_Shoes_White_IE3439_05_standard.jpg",
         "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5591af1f00ae41b1aee51ebe601298ba_9366/Samba_OG_Shoes_White_IE3439_41_detail.jpg",
         "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eaf9dea272804090b39cc1cc7a2b459b_9366/Samba_OG_Shoes_White_IE3439_06_standard.jpg",
         "slide_image_8": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa1153b485d249fb9bc5f8374cc743be_9366/Samba_OG_Shoes_White_IE3439_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ultraboost",
+    "id": "ultraboost_2431",
+    "name": "ULTRABOOST 1.0 SHOES",
+    "price": 115.5,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c608f554cb3b4d12b392af000188c513_9366/Ultraboost_1.0_Shoes_Black_HQ4199_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/62ba42e3b71e456298bcaf00018ad40f_9366/Ultraboost_1.0_Shoes_Black_HQ4199_04_standard.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/42a33a43b3a5431fb303af0001890652_9366/Ultraboost_1.0_Shoes_Black_HQ4199_05_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/15111b43ba71457080c7af000189ac08_9366/Ultraboost_1.0_Shoes_Black_HQ4199_41_detail.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a199c5099754679bb75af00018a4ba4_9366/Ultraboost_1.0_Shoes_Black_HQ4199_43_detail.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a6039df0147488b9448af000189fdd8_9366/Ultraboost_1.0_Shoes_Black_HQ4199_42_detail.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cb8cfb1ccc23426cb356af0001893be8_9366/Ultraboost_1.0_Shoes_Black_HQ4199_03_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f7b19dba0a71495f8b6baf000189755f_9366/Ultraboost_1.0_Shoes_Black_HQ4199_02_standard.jpg"
+      }
+    }
+  },
+
+  {
+    "type_product": "ultraboost",
+    "id": "ultraboost_224424 ",
+    "name": "ULTRABOOST 1.0 SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "ULTRABOOST ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d46e6697bc1b4ba6974154a9970b509e_9366/Ultraboost_1.0_Shoes_Grey_ID5877_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2bed4144a078429f8c266eaa08932864_9366/Ultraboost_1.0_Shoes_Grey_ID5877_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e617df3369d543f6a9a5a7e0a1141ae7_9366/Ultraboost_1.0_Shoes_Grey_ID5877_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b32219ae809543adabfc18d45d024aca_9366/Ultraboost_1.0_Shoes_Grey_ID5877_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c628273c247d4ed6a50e9dbc7d2b0668_9366/Ultraboost_1.0_Shoes_Grey_ID5877_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0867eba90b224f219e4a2596cb087f4e_9366/Ultraboost_1.0_Shoes_Grey_ID5877_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ee6ef967c577465f9a59cae27534e2e9_9366/Ultraboost_1.0_Shoes_Grey_ID5877_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c40f264841b48ff87029b74ad12f191_9366/Ultraboost_1.0_Shoes_Grey_ID5877_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ultraboost",
+    "id": "ultraboost_2244 ",
+    "name": "ULTRABOOST 1.0 SHOES",
+    "price": 115.5,
+    "best_sale": "",
+    "details": {
+      "detail_header": "ULTRABOOST ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/50571fa4268d4da19413bce5afacba73_9366/Ultraboost_1.0_Shoes_Brown_ID5886_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7c989a2eefee4ccb9dad1dad8f5a6645_9366/Ultraboost_1.0_Shoes_Brown_ID5886_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/527d97ecf9a241468361e6b92319d8fa_9366/Ultraboost_1.0_Shoes_Brown_ID5886_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f4643fe191a54dc18261a4eb6c42b5ab_9366/Ultraboost_1.0_Shoes_Brown_ID5886_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e7182d8968424f098dd0a0c23282a145_9366/Ultraboost_1.0_Shoes_Brown_ID5886_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e35a9d174aae4245ba6bd09530c4dee3_9366/Ultraboost_1.0_Shoes_Brown_ID5886_41_detail.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/633583e6cc4a4aba9350aef7e0276180_9366/Ultraboost_1.0_Shoes_Brown_ID5886_42_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b033d36ccd6a44f8abb9150386228a52_9366/Ultraboost_1.0_Shoes_Brown_ID5886_06_standard.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "RUNFALCON_3_RUNNING_SHOES",
+    "id": "RUNFALCON_3_RUNNING_SHOES_1 ",
+    "name": "RUNFALCON 3 RUNNING SHOES",
+    "price": 65,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "RUNFALCON 3 RUNNING SHOES",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6662386c34f64044a8bad6aafdafcdc0_9366/Runfalcon_3_Running_Shoes_White_IE0739_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bb12b57b5184cce99516a7367763355_9366/Runfalcon_3_Running_Shoes_White_IE0739_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4008e6c7ff284097ae791508f5b3f758_9366/Runfalcon_3_Running_Shoes_White_IE0739_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d082190149ed4b21ba86554bc22591af_9366/Runfalcon_3_Running_Shoes_White_IE0739_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2743e2b8d57542408001df0b46118b57_9366/Runfalcon_3_Running_Shoes_White_IE0739_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bad04f9bef7c4be28e8fbe07c31b0a92_9366/Runfalcon_3_Running_Shoes_White_IE0739_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d0777265c82e4aeb841f8cfafd8253d9_9366/Runfalcon_3_Running_Shoes_White_IE0739_41_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/df7b818ca93f402cac518b6613dcd06a_9366/Runfalcon_3_Running_Shoes_White_IE0739_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "RUNFALCON_3_RUNNING_SHOES",
+    "id": "RUNFALCON_3_RUNNING_SHOES_2 ",
+    "name": "RUNFALCON 3 RUNNING SHOES",
+    "price": 65,
+    "best_sale": "",
+    "details": {
+      "detail_header": "SAMBA ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17d21769f92f4f009da3af3800df9320_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5be8c7db7f2541a1ac06af3800e43cf1_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c57f28bab4c414bb422af3800e4468a_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a501584bfe2c4883a40faf3800e44eb9_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52a9b9ca31fa409c96c3af3800e4582c_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5de534dc4d9449f1b707af3800e47a96_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_09_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bc9f2f2300584240b0e3af3800e46c38_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_42_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ab07f83bc2b7470eb356af3800e461e8_9366/Runfalcon_3_Cloudfoam_Low_Running_Shoes_Black_HP7544_41_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "RUNFALCON_3_RUNNING_SHOES",
+    "id": "RUNFALCON_3_RUNNING_SHOES_3",
+    "name": "RUNFALCON 3 RUNNING SHOES",
+    "price": 65,
+    "best_sale": "",
+    "details": {
+      "detail_header": "RUNFALCON 3 RUNNING SHOES",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad55c2d25d1242ceafc782904d5dffb5_9366/Runfalcon_3_Running_Shoes_Black_IE0742_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/efbc86060b2b4628a3e735d77dbad476_9366/Runfalcon_3_Running_Shoes_Black_IE0742_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/463b27b8ead54e88a8cc9b8c54af4be9_9366/Runfalcon_3_Running_Shoes_Black_IE0742_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/27ce79d19fe94ed9ad21a88891d598fa_9366/Runfalcon_3_Running_Shoes_Black_IE0742_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/071291b93fcb4133887b5e0f87550d30_9366/Runfalcon_3_Running_Shoes_Black_IE0742_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8ce514c41bcc4f2ca23edd4063315a29_9366/Runfalcon_3_Running_Shoes_Black_IE0742_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c0fe76b613534c6f886415c85fd80e86_9366/Runfalcon_3_Running_Shoes_Black_IE0742_42_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/22dbfa67207a4bf3a8c9413a1315bca8_9366/Runfalcon_3_Running_Shoes_Black_IE0742_41_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ADIZERO_ADIOS_PRO_3_M",
+    "id": "ADIZERO_ADIOS_PRO-_3 _M_9923",
+    "name": "ADIZERO ADIOS PRO 3 M",
+    "price": 250,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b29cb39126f5428fbb0f234ac042edc4_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/13b196d793a44bf591d984183ef5cb64_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM3_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6212c7814c8547c4bd96b764289ea37e_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM4.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a66f2a8ac5fa4149869cf68621cd3238_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM5.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c0b508f96a5a42b894a40f32146eca6b_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM6.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a823011c4c4b49caae576db42734bebe_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM7.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8b494d4cd317406abe390cf6fe439d06_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM8.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ebc7028e0b6242da8d48a821a82af7c8_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6440_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ADIZERO_ADIOS_PRO_3_M",
+    "id": "ADIZERO_ADIOS_PRO-_3 _M_99323",
+    "name": "ADIZERO ADIOS PRO 3 M",
+    "price": 250,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ba0fe238be33482fb5408c93d5d61d72_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2259ad072e1148fe92b04fe92d1a20d8_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM3_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f3c3eff8b2e4037915c49032c017eda_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM4.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/60dc2dedd90c421ca7bcde950ae73c00_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM5.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/41285bc3c3c24223b5a9ec0a7cf0b0a5_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM6.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa809b86ad9b4c659797b20f0993d06e_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM7.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c7b150fcd7d40b18a64104ce182bfa3_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM8.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5aba0606644042f68ae8c662d535d9d6_9366/ADIZERO_ADIOS_PRO_3_M_White_IG6441_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ADIZERO_ADIOS_PRO_3_M",
+    "id": "ADIZERO_ADIOS_PRO-_3 _M_95923",
+    "name": "ADIZERO ADIOS PRO 3 M",
+    "price": 250,
+    "best_sale": "",
+    "details": {
+      "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/754aeec7545c4aa1824d810df1dcfe19_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0640bfec2806483fb88f87d33ff937e2_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM1.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f13c87f88e34c4386449dbe0983212f_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM2.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c02139905e714d4bb8ba8e2f8fc0cb19_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM3_hover.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fceb90ff2f5e4cb08e01b88f44124f6b_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM3.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f12b027283d4408f8df2df36970443ae_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM4.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6bafb0ceba7d49ffa23be98e26a9651b_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM5.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5d65eea9f5294a4aa8f214ef770e6363_9366/ADIZERO_ADIOS_PRO_3_M_Beige_IG6442_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ultraboost",
+    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_1",
+    "name": "ULTRABOOST LIGHT RUNNING SHOES",
+    "price": 190,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/695b16885c664d7fa2e4848d3fba2ff5_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca5f722d3ce847a59d11577d051ce05a_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM3_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/27f46d9489454c04b5ebd2357c86d184_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM4.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5c35f2690e0545bbb9b5a0856dc4d987_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM5.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f35a2221210041ee8834fbcc7e2103ef_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM6.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d43503966a664ebf9043ee95875676c4_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM7.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8067faffd50f4785a16c32b31b889da3_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM8.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ba6b0fc534c448c29a512fc9e2591a88_9366/Ultraboost_Light_Running_Shoes_White_GY9352_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ultraboost",
+    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_2",
+    "name": "ULTRABOOST LIGHT RUNNING SHOES",
+    "price": 190,
+    "best_sale": "",
+    "details": {
+      "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d67e233df1b642b5a4931a5505f0a1be_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff63350102884175bfee3a10bd3e5b93_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM3_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5a32114b931d47ec957a66744df951b2_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM4.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/213c485638f24636a5fc3a9bee4b2d16_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM5.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/89cfa9bc14074e619b071101f23420bf_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM6.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb6476ab6d6c49fb8686ecc58214553d_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM7.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4220d7cd53084927bfcc6d4e91d77002_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM8.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/31c09fcfdf7148c89e4a2889a3454545_9366/Ultraboost_Light_Running_Shoes_Black_GY9353_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ultraboost",
+    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_3",
+    "name": "ULTRABOOST LIGHT RUNNING SHOES",
+    "price": 190,
+    "best_sale": "",
+    "details": {
+      "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/660a7f2326e54d0ea3569887de4eba6b_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d4664b9cd673442a8ff82a7a5cc4e423_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM3_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/627d430673a24e19a8db3ada4f67f1fe_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM4.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/29574b1233ed4524bb8a6f14067c0418_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM5.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/434b77c128854382b1732053822433c1_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM6.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17e7107e320d40df85fa1e520772365e_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM7.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/28f2ddcfcf3947e79f497576e0a6bf63_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM8.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/56c3e5162f444d2b9eb0ef161909e4a5_9366/Ultraboost_Light_Running_Shoes_Green_IE3338_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "ultraboost",
+    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_4",
+    "name": "ULTRABOOST LIGHT RUNNING SHOES",
+    "price": 190,
+    "best_sale": "",
+    "details": {
+      "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/676fd3b4671c4b939253db3a7f565828_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM1.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/92fb2e4f9b964c25bb56464297064a3f_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM3_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fc837e0b30134967bf3e6113fac0d0dd_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM4.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fc990f92a1e64e3aad7002175510c28b_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM5.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/16be94612fac459582fe8c111efe92d8_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM6.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eceb21e7bd7a4fb7b722272d70edd123_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM7.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/30142f2d862548f1b98eb08da19a851f_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM8.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/604d7b6880f4481082a915a6837951af_9366/Ultraboost_Light_Running_Shoes_Pink_IF1488_HM9.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "gazelle_indoor_shoes",
+    "id": "GAZELLE_INDOOR_SHOES_1",
+    "name": "GAZELLE INDOOR SHOES",
+    "price": 120,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0d735d76eb7947a3b44a72f6158d90dc_9366/Gazelle_Indoor_Shoes_Blue_IE2960_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6a24f67244e84131b25295c05211be5b_9366/Gazelle_Indoor_Shoes_Blue_IE2960_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/49b7e3bbc0374ed4abe2815d216fa89e_9366/Gazelle_Indoor_Shoes_Blue_IE2960_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ddd89e57c02c409c8625e7bb03e85cc2_9366/Gazelle_Indoor_Shoes_Blue_IE2960_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/73ae3b7185df46a68c2dbff037f61b42_9366/Gazelle_Indoor_Shoes_Blue_IE2960_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2704fd8df484b1d8c66913603a66553_9366/Gazelle_Indoor_Shoes_Blue_IE2960_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/33e29ab4dca943c18ea45d1482fb87e0_9366/Gazelle_Indoor_Shoes_Blue_IE2960_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/67d0f7230aac4975a4a148fc19cd43b9_9366/Gazelle_Indoor_Shoes_Blue_IE2960_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "gazelle_indoor_shoes",
+    "id": "GAZELLE_INDOOR_SHOES_2",
+    "name": "GAZELLE INDOOR SHOES",
+    "price": 120,
+    "best_sale": "t",
+    "details": {
+      "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/04cd7a94147c4095ad2a73e53d669160_9366/Gazelle_Indoor_Shoes_Orange_IE2959_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/63dc272235674aa49a353a59cfc4c3e2_9366/Gazelle_Indoor_Shoes_Orange_IE2959_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52f1e2ccb0d64b8e848aa048b47f5c8e_9366/Gazelle_Indoor_Shoes_Orange_IE2959_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/381c2773264b40aa9f799a5e6e20f5da_9366/Gazelle_Indoor_Shoes_Orange_IE2959_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8fabd64cda634cff9b39d75b9400b3a5_9366/Gazelle_Indoor_Shoes_Orange_IE2959_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9e2e2b04aabf495581d774f44a693bcd_9366/Gazelle_Indoor_Shoes_Orange_IE2959_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ecb94759b0748488402d8a76c006124_9366/Gazelle_Indoor_Shoes_Orange_IE2959_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/00a538def7c74e2089606fcac5c60d15_9366/Gazelle_Indoor_Shoes_Orange_IE2959_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "gazelle_indoor_shoes",
+    "id": "GAZELLE_INDOOR_SHOES_3",
+    "name": "GAZELLE INDOOR SHOES",
+    "price": 120,
+    "best_sale": "",
+    "details": {
+      "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fd9c854c35c44a37a2874c567fbcce07_9366/Gazelle_Indoor_Shoes_White_IE2957_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0720c59c7d0b4f9493d7fe642cc5c0c8_9366/Gazelle_Indoor_Shoes_White_IE2957_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9becd1892f2446ec995866415c24ff41_9366/Gazelle_Indoor_Shoes_White_IE2957_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/68d77273f2a949b590766680c941ae75_9366/Gazelle_Indoor_Shoes_White_IE2957_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f6e6d1f944a64e95a8e073ac1957c105_9366/Gazelle_Indoor_Shoes_White_IE2957_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/480f93f2cdad45dbb2f699d2a2f4068c_9366/Gazelle_Indoor_Shoes_White_IE2957_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a84b9d528c084f5285fe9be2ba92d60a_9366/Gazelle_Indoor_Shoes_White_IE2957_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1c27d078ad484d17b45bc4408736f541_9366/Gazelle_Indoor_Shoes_White_IE2957_41_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "gazelle indoor shoes",
+    "id": "GAZELLE_INDOOR_SHOES_4",
+    "name": "GAZELLE INDOOR SHOES",
+    "price": 120,
+    "best_sale": "",
+    "details": {
+      "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2a269da31cf6410fa28b0c12d887d1be_9366/Gazelle_Indoor_Shoes_Green_IE2948_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/932be40872894675aad83d1c2db1ba37_9366/Gazelle_Indoor_Shoes_Green_IE2948_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a71d19da88024e45becf11abfcd59326_9366/Gazelle_Indoor_Shoes_Green_IE2948_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d3e6afd6b68849439c15d2669c082f06_9366/Gazelle_Indoor_Shoes_Green_IE2948_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/89a587b5947b47c2952975b793f4e323_9366/Gazelle_Indoor_Shoes_Green_IE2948_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5cb0765793854686835b9fc9239de700_9366/Gazelle_Indoor_Shoes_Green_IE2948_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f2fe079dded94e2dad3efd6c144a6f8a_9366/Gazelle_Indoor_Shoes_Green_IE2948_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6f3110561839412c8704d748c1063b62_9366/Gazelle_Indoor_Shoes_Green_IE2948_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "gazelle indoor shoes",
+    "id": "GAZELLE_INDOOR_SHOES_5",
+    "name": "GAZELLE INDOOR SHOES",
+    "price": 120,
+    "best_sale": "",
+    "details": {
+      "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d62884026e05447ea7e08a9b9fb602b7_9366/Gazelle_Indoor_Shoes_Red_IE2946_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d9017eb5bf944c9ea0a336b82f0f533f_9366/Gazelle_Indoor_Shoes_Red_IE2946_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/150e6f982f314ca9bbdef51177c8f3ee_9366/Gazelle_Indoor_Shoes_Red_IE2946_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/02e6146136d44bdfbd3f98f191f099ac_9366/Gazelle_Indoor_Shoes_Red_IE2946_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7e1085ee8280458688a73c17d25517bc_9366/Gazelle_Indoor_Shoes_Red_IE2946_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7ce8258655d4aa3b68b641fbfcc96e5_9366/Gazelle_Indoor_Shoes_Red_IE2946_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/782fc16c52d14e74aef942e0f54b8c63_9366/Gazelle_Indoor_Shoes_Red_IE2946_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/60373c0655674bc7b22c2a8f2cc69299_9366/Gazelle_Indoor_Shoes_Red_IE2946_41_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "handball_spezial_shoes",
+    "id": "HANDBALL_SPEZIAL_SHOES_1",
+    "name": "HANDBALL SPEZIAL SHOES",
+    "price": 120,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "",
+      "slide_image": {
+        "slide_image_1": "",
+        "slide_image_2": "",
+        "slide_image_3": "",
+        "slide_image_4": "",
+        "slide_image_5": "",
+        "slide_image_6": "",
+        "slide_image_7": ""
+      }
+    }
+  },
+
+  {
+    "type_product": "handball_spezial_shoes",
+    "id": "HANDBALL_SPEZIAL_SHOES_1",
+    "name": "HANDBALL SPEZIAL SHOES",
+    "price": 120,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f8a8e692966748f4a493eb756649ff87_9366/Handball_Spezial_Shoes_Green_IG6192_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/55b17777e67748f0bdcbdcdb9e45fe51_9366/Handball_Spezial_Shoes_Green_IG6192_02_standard.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/68099330d10c42c79d5805bc5774d861_9366/Handball_Spezial_Shoes_Green_IG6192_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/499d9b2802564229922a41e699a6ff85_9366/Handball_Spezial_Shoes_Green_IG6192_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d77e5ed304ed4ab580ca1c359d215bf5_9366/Handball_Spezial_Shoes_Green_IG6192_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ac6a8a60355544f08cf0174d51fe2b22_9366/Handball_Spezial_Shoes_Green_IG6192_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d9b24369ce894ad08079dbccd4cccf39_9366/Handball_Spezial_Shoes_Green_IG6192_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/48827d5dad844c7fb212b83e955f2c82_9366/Handball_Spezial_Shoes_Green_IG6192_15_hover_standard.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "handball_spezial_shoes",
+    "id": "HANDBALL_SPEZIAL_SHOES_2",
+    "name": "HANDBALL SPEZIAL SHOES",
+    "price": 120,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6218f8cc55984cfe92d1a96d0110ac7e_9366/Handball_Spezial_Shoes_Black_DB3021_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96c5eb48a9074ee9889aa96d0110ca89_9366/Handball_Spezial_Shoes_Black_DB3021_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/89ca78bab363419a82ffa96d0110db67_9366/Handball_Spezial_Shoes_Black_DB3021_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cee46178e4c7447d872ea96d0110ebe6_9366/Handball_Spezial_Shoes_Black_DB3021_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/233924e6eb06422888eca96d0110fa0e_9366/Handball_Spezial_Shoes_Black_DB3021_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/16a771580e0343fea6dfa96d0110bbab_9366/Handball_Spezial_Shoes_Black_DB3021_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d65fa683580746dbb899a96d011108df_9366/Handball_Spezial_Shoes_Black_DB3021_41_detail.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1163d0ac6cc742429a57a96d01113b1b_9366/Handball_Spezial_Shoes_Black_DB3021_09_standard.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "handball_spezial_shoes",
+    "id": "HANDBALL_SPEZIAL_SHOES_3",
+    "name": "HANDBALL SPEZIAL SHOES",
+    "price": 120,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/97da8e52d2274f70ace8987c349ed947_9366/Handball_Spezial_Shoes_Grey_IE9840_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7b088b4b2294a1a86478b448ab6fdbb_9366/Handball_Spezial_Shoes_Grey_IE9840_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ef89156e1a4b4994b85b8dce76328a2d_9366/Handball_Spezial_Shoes_Grey_IE9840_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a54db25d47034438b1b280691b50a778_9366/Handball_Spezial_Shoes_Grey_IE9840_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/af21d314bb364fa4ad6cb8dab714e87c_9366/Handball_Spezial_Shoes_Grey_IE9840_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/245dedd2337d46f6babefb6824d6fb21_9366/Handball_Spezial_Shoes_Grey_IE9840_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b67f9807cbfc45ef9316d7e372f02805_9366/Handball_Spezial_Shoes_Grey_IE9840_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fa78a3eb73db4d0298a7076af8904fd5_9366/Handball_Spezial_Shoes_Grey_IE9840_42_detail.jpg"
+      }
+    }
+  },
+  {
+    "type_product": "handball_spezial_shoes",
+    "id": "HANDBALL_SPEZIAL_SHOES_4",
+    "name": "HANDBALL SPEZIAL SHOES",
+    "price": 120,
+    "best_sale": "best_sale_product",
+    "details": {
+      "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
+      "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
+      "product_detail": {
+        "p_detail_1": "Regular fit",
+        "p_detail_2": "Lace closure",
+        "p_detail_3": "Full grain leather upper with gritty suede and gold foil details",
+        "p_detail_4": "Synthetic leather lining; Gum rubber cupsole",
+        "p_detail_5": "Gum rubber midsole ",
+        "p_detail_6": "Imported",
+        "p_detail_7": " Product color: Cloud White / Core Black / gum",
+        "p_detail_8": " Product code: B75806"
+      }
+    },
+
+    "sizes": {
+      "size_1": "26.5",
+      "size_2": "27",
+      "size_3": "28",
+      "size_4": "29",
+      "size_5": "29.5",
+      "size_6": "30",
+      "size_7": "31",
+      "size_8": "32",
+      "size_9": "32.5",
+      "size_10": "33",
+      "size_11": "34",
+      "size_12": "37",
+      "size_13": "39",
+      "size_14": "39.5",
+      "size_16": "40",
+      "size_17": "41",
+      "size_18": "42",
+      "size_19": "43",
+      "size_20": "44",
+      "size_15": "44.5"
+    },
+    "image": {
+      "image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4a7e0e46d55a4f02aa77a240aae87ce6_9366/Handball_Spezial_Shoes_Green_IG6183_01_standard.jpg",
+      "slide_image": {
+        "slide_image_1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2610e0fa0ac4409fa782c55ca61fcbf0_9366/Handball_Spezial_Shoes_Green_IG6183_02_standard_hover.jpg",
+        "slide_image_2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6266ef79102643849e42be8ef9d0b357_9366/Handball_Spezial_Shoes_Green_IG6183_03_standard.jpg",
+        "slide_image_3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d506f2e86804195b84c5f43e068065e_9366/Handball_Spezial_Shoes_Green_IG6183_04_standard.jpg",
+        "slide_image_4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6c3c2e226aac4592b683a2f49b2f6a61_9366/Handball_Spezial_Shoes_Green_IG6183_05_standard.jpg",
+        "slide_image_5": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/92a3be0486d04c6484995f30891bfd90_9366/Handball_Spezial_Shoes_Green_IG6183_06_standard.jpg",
+        "slide_image_6": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4a83d8733e134a178d9ac376559e9373_9366/Handball_Spezial_Shoes_Green_IG6183_09_standard.jpg",
+        "slide_image_7": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fb1b5bcaaadc483d906b7055eee83d8e_9366/Handball_Spezial_Shoes_Green_IG6183_41_detail.jpg"
       }
     }
   }
