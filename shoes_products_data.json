@@ -6,6 +6,7 @@
     "price": 115.5,
     "best_sale": "best_sale_product",
     "recommend":"recommend_product",
+    "color":"white",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -62,6 +63,7 @@
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
+    "color":"black",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -118,6 +120,7 @@
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
+    "color":"green",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -174,6 +177,7 @@
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
+    "color":"white",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -230,6 +234,7 @@
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "",
+    "color":"white",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -287,6 +292,7 @@
     "price": 115.5,
     "best_sale": "best_sale_product",
     "recommend":"recommend_product",
+    "color":"black",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -344,6 +350,7 @@
     "name": "ULTRABOOST 1.0 SHOES",
     "price": 115.5,
     "best_sale": "",
+      "color":"gray",
     "details": {
       "detail_header": "ULTRABOOST ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -400,6 +407,7 @@
     "name": "ULTRABOOST 1.0 SHOES",
     "price": 115.5,
     "best_sale": "",
+      "color":"black",
     "details": {
       "detail_header": "ULTRABOOST ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -456,6 +464,7 @@
     "name": "RUNFALCON 3 RUNNING SHOES",
     "price": 65,
     "best_sale": "best_sale_product",
+      "color":"white",
     "details": {
       "detail_header": "RUNFALCON 3 RUNNING SHOES",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -513,6 +522,7 @@
     "price": 65,
     "best_sale": "",
     "recommend":"recommend_product",
+      "color":"black",
     "details": {
       "detail_header": "SAMBA ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -569,6 +579,7 @@
     "name": "RUNFALCON 3 RUNNING SHOES",
     "price": 65,
     "best_sale": "",
+      "color":"black",
     "details": {
       "detail_header": "RUNFALCON 3 RUNNING SHOES",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -626,6 +637,7 @@
     "price": 250,
     "best_sale": "best_sale_product",
     "recommend":"recommend_product",
+      "color":"pink",
     "details": {
       "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -683,6 +695,7 @@
     "price": 250,
     "best_sale": "",
     "recommend":"recommend_product",
+      "color":"blue",
     "details": {
       "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -740,6 +753,7 @@
     "price": 250,
     "best_sale": "",
     "recommend":"recommend_product",
+      "color":"black",
     "details": {
       "detail_header": "ADIZERO ADIOS PRO 3 M ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -796,6 +810,7 @@
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "best_sale_product",
+      "color":"white",
     "details": {
       "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -852,6 +867,7 @@
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "",
+      "color":"black",
     "details": {
       "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -908,6 +924,7 @@
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "",
+      "color":"green",
     "details": {
       "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -964,6 +981,7 @@
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "",
+      "color":"pink",
     "details": {
       "detail_header": "ULTRABOOST LIGHT RUNNING ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1020,6 +1038,7 @@
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "best_sale_product",
+      "color":"blue",
     "details": {
       "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1075,7 +1094,8 @@
     "id": "GAZELLE_INDOOR_SHOES_2",
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
-    "best_sale": "t",
+    "best_sale": "",
+      "color":"yellow",
     "details": {
       "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1133,6 +1153,7 @@
     "price": 120,
     "best_sale": "",
     "recommend":"recommend_product",
+      "color":"white",
     "details": {
       "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1189,6 +1210,7 @@
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "",
+      "color":"green",
     "details": {
       "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1246,6 +1268,7 @@
     "price": 120,
     "best_sale": "",
     "recommend":"recommend_product",
+      "color":"pink",
     "details": {
       "detail_header": "GAZELLE INDOOR SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1302,6 +1325,7 @@
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
     "best_sale": "best_sale_product",
+      "color":"green",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1359,6 +1383,7 @@
     "price": 120,
     "best_sale": "",
     "recommend":"recommend_product",
+      "color":"black",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1415,6 +1440,7 @@
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
     "best_sale": "",
+      "color":"gray",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
@@ -1472,6 +1498,7 @@
     "recommend":"recommend_product",
     "price": 120,
     "best_sale": "",
+      "color":"gray",
     "details": {
       "detail_header": "HANDBALL SPEZIAL SHOES ORIGINALS",
       "deatil_body": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch",
