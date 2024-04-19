@@ -1,7 +1,7 @@
 [
   {
     "type_product": "samba",
-    "id": "samba-shoes_1",
+    "id": 122,
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
@@ -59,7 +59,7 @@
   },
   {
     "type_product": "samba",
-    "id": "samba-shoes_2",
+    "id": 1244523,
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
@@ -116,7 +116,7 @@
   },
   {
     "type_product": "samba",
-    "id": "samba-shoes_3",
+    "id": 1224423",
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
@@ -173,7 +173,7 @@
   },
   {
     "type_product": "samba",
-    "id": "samba-shoes_4 ",
+    "id": 9973,
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
@@ -230,7 +230,7 @@
   },
   {
     "type_product": "samba",
-    "id": "samba-shoes_5",
+    "id": 99034,
     "name": "SAMBA OG SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -287,7 +287,7 @@
   },
   {
     "type_product": "ultraboost",
-    "id": "ultraboost_2431",
+    "id": 43402385,
     "name": "ULTRABOOST 1.0 SHOES",
     "price": 115.5,
     "best_sale": "best_sale_product",
@@ -346,7 +346,7 @@
 
   {
     "type_product": "ultraboost",
-    "id": "ultraboost_224424 ",
+    "id": 233323,
     "name": "ULTRABOOST 1.0 SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -403,7 +403,7 @@
   },
   {
     "type_product": "ultraboost",
-    "id": "ultraboost_2244 ",
+    "id": 233323900,
     "name": "ULTRABOOST 1.0 SHOES",
     "price": 115.5,
     "best_sale": "",
@@ -460,7 +460,7 @@
   },
   {
     "type_product": "RUNFALCON_3_RUNNING_SHOES",
-    "id": "RUNFALCON_3_RUNNING_SHOES_1 ",
+    "id": 233323555,
     "name": "RUNFALCON 3 RUNNING SHOES",
     "price": 65,
     "best_sale": "best_sale_product",
@@ -517,7 +517,7 @@
   },
   {
     "type_product": "RUNFALCON_3_RUNNING_SHOES",
-    "id": "RUNFALCON_3_RUNNING_SHOES_2 ",
+    "id": 23332385,
     "name": "RUNFALCON 3 RUNNING SHOES",
     "price": 65,
     "best_sale": "",
@@ -575,7 +575,7 @@
   },
   {
     "type_product": "RUNFALCON_3_RUNNING_SHOES",
-    "id": "RUNFALCON_3_RUNNING_SHOES_3",
+    "id": 75677889,
     "name": "RUNFALCON 3 RUNNING SHOES",
     "price": 65,
     "best_sale": "",
@@ -632,7 +632,7 @@
   },
   {
     "type_product": "ADIZERO_ADIOS_PRO_3_M",
-    "id": "ADIZERO_ADIOS_PRO-_3 _M_9923",
+    "id": 8767889998,
     "name": "ADIZERO ADIOS PRO 3 M",
     "price": 250,
     "best_sale": "best_sale_product",
@@ -690,7 +690,7 @@
   },
   {
     "type_product": "ADIZERO_ADIOS_PRO_3_M",
-    "id": "ADIZERO_ADIOS_PRO-_3 _M_99323",
+    "id": 2333237767,
     "name": "ADIZERO ADIOS PRO 3 M",
     "price": 250,
     "best_sale": "",
@@ -748,7 +748,7 @@
   },
   {
     "type_product": "ADIZERO_ADIOS_PRO_3_M",
-    "id": "ADIZERO_ADIOS_PRO-_3 _M_95923",
+    "id": 23332377888,
     "name": "ADIZERO ADIOS PRO 3 M",
     "price": 250,
     "best_sale": "",
