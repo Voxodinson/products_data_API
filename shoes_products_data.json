@@ -806,7 +806,7 @@
   },
   {
     "type_product": "ultraboost",
-    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_1",
+    "id": 87789,
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "best_sale_product",
@@ -863,7 +863,7 @@
   },
   {
     "type_product": "ultraboost",
-    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_2",
+    "id": 877,
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "",
@@ -920,7 +920,7 @@
   },
   {
     "type_product": "ultraboost",
-    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_3",
+    "id": 356789,
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "",
@@ -977,7 +977,7 @@
   },
   {
     "type_product": "ultraboost",
-    "id": "ULTRABOOST_LIGHT_RUNNING_SHOES_4",
+    "id": 889340,
     "name": "ULTRABOOST LIGHT RUNNING SHOES",
     "price": 190,
     "best_sale": "",
@@ -1034,7 +1034,7 @@
   },
   {
     "type_product": "gazelle_indoor_shoes",
-    "id": "GAZELLE_INDOOR_SHOES_1",
+    "id": 83749,
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "best_sale_product",
@@ -1091,7 +1091,7 @@
   },
   {
     "type_product": "gazelle_indoor_shoes",
-    "id": "GAZELLE_INDOOR_SHOES_2",
+    "id": 3493412,
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "",
@@ -1148,7 +1148,7 @@
   },
   {
     "type_product": "gazelle_indoor_shoes",
-    "id": "GAZELLE_INDOOR_SHOES_3",
+    "id": 998324900,
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "",
@@ -1206,7 +1206,7 @@
   },
   {
     "type_product": "gazelle indoor shoes",
-    "id": "GAZELLE_INDOOR_SHOES_4",
+    "id": 9485738942,
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "",
@@ -1263,7 +1263,7 @@
   },
   {
     "type_product": "gazelle indoor shoes",
-    "id": "GAZELLE_INDOOR_SHOES_5",
+    "id": 282394,
     "name": "GAZELLE INDOOR SHOES",
     "price": 120,
     "best_sale": "",
@@ -1321,7 +1321,7 @@
   },
   {
     "type_product": "handball_spezial_shoes",
-    "id": "HANDBALL_SPEZIAL_SHOES_1",
+    "id": 8888,
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
     "best_sale": "best_sale_product",
@@ -1378,7 +1378,7 @@
   },
   {
     "type_product": "handball_spezial_shoes",
-    "id": "HANDBALL_SPEZIAL_SHOES_2",
+    "id": 90990,
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
     "best_sale": "",
@@ -1436,7 +1436,7 @@
   },
   {
     "type_product": "handball_spezial_shoes",
-    "id": "HANDBALL_SPEZIAL_SHOES_3",
+    "id": 4444444,
     "name": "HANDBALL SPEZIAL SHOES",
     "price": 120,
     "best_sale": "",
@@ -1493,7 +1493,7 @@
   },
   {
     "type_product": "handball_spezial_shoes",
-    "id": "HANDBALL_SPEZIAL_SHOES_4",
+    "id": 34444555,
     "name": "HANDBALL SPEZIAL SHOES",
     "recommend":"recommend_product",
     "price": 120,
